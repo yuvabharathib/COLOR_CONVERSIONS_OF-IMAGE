@@ -38,8 +38,58 @@ Split and merge HSV Image
 ##### Program:
 ### Developed By:
 ### Register Number: 
+
+
+## Output:
+
+### i) Read and display the image
+
+<br>
+<br>
+
+### ii)Write the image
+
+<br>
+<br>
+
+### iii)Shape of the Image
+
+<br>
+<br>
+
+### iv)Access rows and columns
+<br>
+<br>
+
+### v)Cut and paste portion of image
+<br>
+<br>
+
+### vi) BGR and RGB to HSV and GRAY
+<br>
+<br>
+
+### vii) HSV to RGB and BGR
+<br>
+<br>
+
+### viii) RGB and BGR to YCrCb
+<br>
+<br>
+
+### ix) Split and merge RGB Image
+<br>
+<br>
+
+### x) Split and merge HSV Image
+<br>
+<br>
+
+
+
+
 ## Result:
-Thus the images are read, displayed, and written successfully using the python program.
+Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
 
 
 
