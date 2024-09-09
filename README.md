@@ -118,7 +118,7 @@ iv)Add the text "MSD" at the top-left corner of the image.
 import cv2
 
 # Load the image
-img = cv2.imread("panda.JPG")
+img = cv2.imread("msdd.jpg")
 
 # Define the text to be added and its position
 text = "MSD"
