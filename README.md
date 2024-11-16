@@ -111,7 +111,8 @@ cv2.imshow('Image Window', res_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![Screenshot 2024-09-09 162433](https://github.com/user-attachments/assets/439d724f-2b43-453d-b38e-fce158be395e)
+![WhatsApp Image 2024-11-16 at 7 24 59 PM (1)](https://github.com/user-attachments/assets/d46cc55d-ed8e-4d66-b760-866de33b7c76)
+
 
 iv)Add the text "MSD" at the top-left corner of the image.
 ```
